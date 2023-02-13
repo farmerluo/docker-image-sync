@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "registry.hub.docker.com": {
+            "username": "farmerluo",
+            "password": "DOCKERHUB_PASSWORD"
+        }
+    },
+    "images": {
+        "registry.k8s.io/dns/k8s-dns-node-cache": "farmerluo/k8s-dns-node-cache"
+    }
+}
